@@ -1,0 +1,22 @@
+{
+  "name": "mapix-mongo-profiler-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/mapix-mongo-profiler: guard a structural profile before using it to generate metadata.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/mapix-mongo-profiler": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/mapix-mongo-profiler.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/mapix-mongo-profiler"
+}

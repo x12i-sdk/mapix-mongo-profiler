@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/mapix-mongo-profiler",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/mapix-mongo-profiler",
+  "usageRepository": "https://github.com/x12i-sdk/mapix-mongo-profiler",
+  "sourceRepository": "https://github.com/x12i/mapix",
+  "sourceCommit": "050d49774c2e81b3ec9daba4fb4cf6869179e5f1",
+  "sourcePackageDirectory": "packages/mongo-profiler",
+  "example": {
+    "title": "Guard a structural profile before using it to generate metadata",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:40.848111+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "df6decd2f3a219b18f026718c0d8b61943e4580a5eefa9ddda363d405c8d5047",
+    "manifestSha256": "16d1a3bce35b2a9e0ac6e78a28206207738c5d7a4cbf4e6ff49b713180cba2a0"
+  },
+  "validationFiles": {
+    "src/index.mjs": "df6decd2f3a219b18f026718c0d8b61943e4580a5eefa9ddda363d405c8d5047"
+  }
+}
